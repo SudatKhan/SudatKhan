@@ -1,6 +1,6 @@
 ### Hi there, I'm Sudat (he/they)! 👋
 
-I'm a (rising) graduate astrophysics student (Ph.D) @ University of Nevada, Las Vegas (Department of Physics and Astronomy) 🔭. Currently, I am focusing on computational hydrodynamics/MHD with specific applications to protoplanetary disk and planet formation simulations. I also love doing N-body simulations! 
+I'm a graduate astrophysics student (Ph.D) at University of Nevada, Las Vegas (Department of Physics and Astronomy) 🔭. Currently, I am focusing on computational hydrodynamics/MHD with specific applications to planet-disk interactions and planet formation simulations. I also love doing N-body simulations! 
 
 <!--
 **SudatKhan/SudatKhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
